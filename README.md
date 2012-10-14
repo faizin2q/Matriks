@@ -7,7 +7,7 @@ Matriks:
 
 * Jalankan dengan GCC di terminal.
 ```
-$ gcc -c test.c
-$ gcc -o test test.c
-$ ./test
+$ gcc -c matriks.c
+$ gcc -o matriks matriks.c
+$ ./matriks
 ```
